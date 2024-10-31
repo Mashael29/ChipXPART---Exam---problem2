@@ -11,5 +11,5 @@ int main() {
     printf("Sum: %d\n", sum);           // Print sum
     printf("Difference: %d\n", difference); // Print difference
 
-    return 0;
+    return 1;
 }
